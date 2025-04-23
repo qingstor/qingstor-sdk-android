@@ -1,8 +1,8 @@
-# QingStor Demo - Signature Server (Java)
+# QingStor Demo - Signature Server (Android)
 
 ## Data Flow
 
-Assume that we have a client that knows nothing about the access key and secret access key, such as a Java application runs in the client. If the client wants to access to non-public bucket directly, it needs the signature generated from the signature server for every request.
+Assume that we have a client that knows nothing about the access key and secret access key, such as a Android application runs in the client. If the client wants to access to non-public bucket directly, it needs the signature generated from the signature server for every request.
 
 Here's a diagram describes the data flow:
 

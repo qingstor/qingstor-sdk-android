@@ -18,7 +18,7 @@
 |    Access-Control-Max-Age     | String | 预检请求的结果被缓存的时间（单位为秒）。                                                       |
 | Access-Control-Allow-Methods  | String | 跨源请求中的 HTTP method 。如果跨源请求没有被允许，该头信息将不会存在于响应头中。              |
 | Access-Control-Allow-Headers  | String | 跨源请求中可以被允许发送的 HTTP headers (逗号分割的字符串)。                                   |
-| Access-Control-Expose-Headers | String | 跨源请求的响应中,客户端（如 JavaScript Client） 可以获取到的 HTTP headers (逗号分割的字符串)。 |
+| Access-Control-Expose-Headers | String | 跨源请求的响应中,客户端（如 AndroidScript Client） 可以获取到的 HTTP headers (逗号分割的字符串)。 |
 
 访问 [API Docs](https://docsv4.qingcloud.com/user_guide/storage/object_storage/api/object/basic_opt/options_object/) 以查看更多关于响应头的信息。
 

@@ -12,7 +12,7 @@ String zoneKey = "pek3a";
 
 Then you can list Buckets
 
-```Java
+```Android
     private void listBuckets(EnvContext context) {
         QingStor stor = new QingStor(context);
         try {
