@@ -1,6 +1,5 @@
 # QingStor SDK for Android
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.yunify/qingstor.sdk.java/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.yunify/qingstor.sdk.java)
 ![Build Status](https://github.com/qingstor/qingstor-sdk-android/workflows/Unit%20Test/badge.svg)
 [![API Reference](https://img.shields.io/badge/api-reference-green.svg)](https://docsv4.qingcloud.com/user_guide/storage/object_storage/)
 [![License](https://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/yunify/qingstor-sdk-Android/blob/master/LICENSE)
@@ -12,8 +11,6 @@ The official QingStor SDK for the Android programming language.
 Before you start using the SDK, make sure you have a basic understanding of the concepts of [QingStor object storage](https://docsv4.qingcloud.com/user_guide/storage/object_storage/intro/product/) (such as Zone, Service, Bucket, Object, etc.).
 
 This SDK try to keep a one-to-one correspondence with the methods on the [QingCloud QingStor object storage documentation](https://docsv4.qingcloud.com/user_guide/storage/object_storage/api/). For details of each method, please refer to the corresponding chapter in the link.
-
-You can see documents containing the complete package structure here: [javadoc](https://javadoc.io/doc/com.yunify/qingstor.sdk.java).
 
 ## Getting Started
 
