@@ -81,17 +81,17 @@ All notable changes to QingStor SDK for JAVA will be documented in this file.
 
 ### Added
 
-- Support bucket Replication api([#103](https://github.com/qingstor/qingstor-sdk-java/pull/103));
+- Support bucket Replication api([#103](https://github.com/qingstor/qingstor-sdk-android/pull/103));
 
 ### Changed
 
-- Migrate to github actions([#105](https://github.com/qingstor/qingstor-sdk-java/pull/105));
-- Replace `virtual_host_enabled` to `enable_virtual_host_style`([#119](https://github.com/qingstor/qingstor-sdk-java/pull/119));
+- Migrate to github actions([#105](https://github.com/qingstor/qingstor-sdk-android/pull/105));
+- Replace `virtual_host_enabled` to `enable_virtual_host_style`([#119](https://github.com/qingstor/qingstor-sdk-android/pull/119));
 
 ### Fixed
 
-- fix code template error when multiple fields in([#104](https://github.com/qingstor/qingstor-sdk-java/pull/104));
-- Error thrown during request when safeOkHttp configured as true([#117](https://github.com/qingstor/qingstor-sdk-java/pull/117));
+- fix code template error when multiple fields in([#104](https://github.com/qingstor/qingstor-sdk-android/pull/104));
+- Error thrown during request when safeOkHttp configured as true([#117](https://github.com/qingstor/qingstor-sdk-android/pull/117));
 
 ## [v2.4.0] - 2020-09-28
 
@@ -553,17 +553,17 @@ Like this: `# port: '443'`
 ### Added
 
 - QingStor SDK for the JAVA programming language.
-[v2.2.1]: https://github.com/yunify/qingstor-sdk-java/compare/2.2.0...2.2.1
-[v2.2.0]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.10...2.2.0
-[v2.1.10]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.9...2.1.10
-[v2.1.9]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.8...2.1.9
-[v2.1.8]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.7...2.1.8
-[v2.1.7]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.6...2.1.7
-[v2.1.6]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.5...2.1.6
-[v2.1.5]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.4...2.1.5
-[v2.1.4]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.3...2.1.4
-[v2.1.3]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.2...2.1.3
-[v2.1.2]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.1...2.1.2
-[v2.1.1]: https://github.com/yunify/qingstor-sdk-java/compare/2.1.0...2.1.1
-[v2.1.0]: https://github.com/yunify/qingstor-sdk-java/compare/2.0.1...2.1.0
-[v2.0.1]: https://github.com/yunify/qingstor-sdk-java/compare/2.0.0...2.0.1
+[v2.2.1]: https://github.com/yunify/qingstor-sdk-android/compare/2.2.0...2.2.1
+[v2.2.0]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.10...2.2.0
+[v2.1.10]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.9...2.1.10
+[v2.1.9]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.8...2.1.9
+[v2.1.8]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.7...2.1.8
+[v2.1.7]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.6...2.1.7
+[v2.1.6]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.5...2.1.6
+[v2.1.5]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.4...2.1.5
+[v2.1.4]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.3...2.1.4
+[v2.1.3]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.2...2.1.3
+[v2.1.2]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.1...2.1.2
+[v2.1.1]: https://github.com/yunify/qingstor-sdk-android/compare/2.1.0...2.1.1
+[v2.1.0]: https://github.com/yunify/qingstor-sdk-android/compare/2.0.1...2.1.0
+[v2.0.1]: https://github.com/yunify/qingstor-sdk-android/compare/2.0.0...2.0.1

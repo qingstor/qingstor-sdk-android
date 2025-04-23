@@ -1,7 +1,7 @@
 # QingStor SDK for Android
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.yunify/qingstor.sdk.java/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.yunify/qingstor.sdk.java)
-![Build Status](https://github.com/qingstor/qingstor-sdk-java/workflows/Unit%20Test/badge.svg)
+![Build Status](https://github.com/qingstor/qingstor-sdk-android/workflows/Unit%20Test/badge.svg)
 [![API Reference](https://img.shields.io/badge/api-reference-green.svg)](https://docsv4.qingcloud.com/user_guide/storage/object_storage/)
 [![License](https://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/yunify/qingstor-sdk-Android/blob/master/LICENSE)
 
@@ -25,7 +25,7 @@ Now you are ready to code. You can read the detailed guides in the list below to
 - [Service Initialization](./docs/service.md)
 - [Code Examples](./docs/examples.md)
 
-Checkout our [releases](https://github.com/qingstor/qingstor-sdk-java/releases) and [change log](./CHANGELOG.md) for information about the latest features, bug fixes and new ideas.
+Checkout our [releases](https://github.com/qingstor/qingstor-sdk-android/releases) and [change log](./CHANGELOG.md) for information about the latest features, bug fixes and new ideas.
 
 ## Reference Documentations
 
@@ -35,7 +35,7 @@ Checkout our [releases](https://github.com/qingstor/qingstor-sdk-java/releases) 
 
 ## Contributing
 
-1. Fork it ( https://github.com/qingstor/qingstor-sdk-java/fork )
+1. Fork it ( https://github.com/qingstor/qingstor-sdk-android/fork )
 2. Create your feature branch (`git checkout -b new-feature`)
 3. Commit your changes (`git commit -asm 'Add some feature'`)
 4. Push to the branch (`git push origin new-feature`)
