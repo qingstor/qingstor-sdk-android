@@ -1,19 +1,16 @@
-# QingStor SDK for Java
+# QingStor SDK for Android
 
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.yunify/qingstor.sdk.java/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.yunify/qingstor.sdk.java)
-![Build Status](https://github.com/qingstor/qingstor-sdk-java/workflows/Unit%20Test/badge.svg)
+![Build Status](https://github.com/qingstor/qingstor-sdk-android/workflows/Unit%20Test/badge.svg)
 [![API Reference](https://img.shields.io/badge/api-reference-green.svg)](https://docsv4.qingcloud.com/user_guide/storage/object_storage/)
 [![License](https://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/yunify/qingstor-sdk-Java/blob/master/LICENSE)
 
 [English](README.md) | 中文
 
-Java 语言版本的 QingStor 官方 SDK.
+Android 语言版本的 QingStor 官方 SDK.
 
 在开始使用 SDK 之前，请确保你对[青云 QingStor 对象存储基本概念](https://docsv4.qingcloud.com/user_guide/storage/object_storage/intro/product/)（如 Zone，Service，Bucket，Object 等）有一定的了解。
 
 本 SDK 与[青云 QingStor 对象存储帮助文档](https://docsv4.qingcloud.com/user_guide/storage/object_storage/api/)上的方法尽量保持一一对应，具体每个方法的详细说明请查看上述链接中的对应章节。
-
-您可以在此处查看包含完整软件包结构的文档: [javadoc](https://javadoc.io/doc/com.yunify/qingstor.sdk.java).
 
 ## 快速开始
 
@@ -25,7 +22,7 @@ Java 语言版本的 QingStor 官方 SDK.
 - [初始化服务](./docs/service_zh-CN.md)
 - [代码示例](./docs/examples_zh-CN.md)
 
-查看我们的 [发布历史](https://github.com/qingstor/qingstor-sdk-java/releases) 和 [更改日志](./CHANGELOG.md) 获取最新的特性和 bug 修复。
+查看我们的 [发布历史](https://github.com/qingstor/qingstor-sdk-android/releases) 和 [更改日志](./CHANGELOG.md) 获取最新的特性和 bug 修复。
 
 ## 参考文档
 
@@ -35,7 +32,7 @@ Java 语言版本的 QingStor 官方 SDK.
 
 ## 贡献
 
-1. Fork 仓库 ( https://github.com/qingstor/qingstor-sdk-java/fork )
+1. Fork 仓库 ( https://github.com/qingstor/qingstor-sdk-andorid/fork )
 2. 创建您的 feature 分支 (`git checkout -b new-feature`)
 3. 提交您的修改 (`git commit -asm 'Add some feature'`)
 4. 推送到您的 origin 仓库 (`git push origin new-feature`)
